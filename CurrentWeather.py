@@ -1,4 +1,4 @@
-import re, urlib, json
+import re, urllib, json
 
 def get_ip():
     url = "http://checkip.dyndns.org"
